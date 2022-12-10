@@ -10,7 +10,14 @@ module.exports = {
             fontSize: {
                 14: '14px',
             },
+            colors :{
+                'sidebar01-menu-text1': '#6956E5',
+                'sidebar01-menu-text2': '#878787',
+
+
+            },
             backgroundColor: {
+                'sidebar01-bg': '#F9F9F9',
                 'main-bg': '#FAFBFB',
                 'main-dark-bg': '#20232A',
                 'secondary-dark-bg': '#33373E',
